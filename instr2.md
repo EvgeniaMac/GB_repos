@@ -6,3 +6,6 @@
 Чтобы создать нов ветку:
 *git branch name
 
+Чтобы удалить ветку:
+
+* git branch -d name
