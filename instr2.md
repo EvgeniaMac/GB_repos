@@ -2,4 +2,4 @@
 
 Чтобы удалить ветку:
 
-* git 
+* git branch -d name
